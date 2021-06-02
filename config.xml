@@ -5,7 +5,8 @@
         The Count People app is to count people in meeting. 
     </description>
     <access origin="*"></access>
-    <allow-navigation href="*" /> 
+    <allow-navigation href="https://github.com/tpmscott/*" />
+    <allow-navigation href="http://192.168.1.18" />
     <platform name="ios">
         <icon height="167" src="resources/icon/ios/icon-83.5@2x.png" width="167" />
         <icon height="76" src="resources/icon/ios/icon-76.png" width="76" />
